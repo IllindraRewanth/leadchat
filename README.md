@@ -2,7 +2,7 @@
 
 An AI chat widget that talks to website visitors, asks qualification questions, and turns each conversation into a scored lead. This is my capstone for the FlyRank Frontend AI Engineering track.
 
-**Live:** _add the Vercel URL here_
+**Live:** https://leadchat-sigma.vercel.app (health check: https://leadchat-sigma.vercel.app/health)
 
 **Status:** FE-05 skeleton. Every screen exists as a routed placeholder; the real chat arrives in FE-06. See [SPEC.md](SPEC.md).
 
