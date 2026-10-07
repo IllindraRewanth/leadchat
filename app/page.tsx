@@ -13,7 +13,7 @@ export default function Home() {
       <section className="mx-auto w-full max-w-5xl px-4 py-14 sm:py-20">
         <p className="text-sm font-medium text-brand">AI lead qualification</p>
         <h1 className="mt-2 max-w-2xl text-3xl font-semibold tracking-tight sm:text-5xl">
-          Turn website visitors into qualified leads, while you sleep.
+          A chat assistant that finds your best customers for you
         </h1>
         <p className="mt-4 max-w-xl text-muted">
           LeadChat is a chat widget that talks to visitors, asks the questions your sales team would ask, and hands you only the leads worth a call.
