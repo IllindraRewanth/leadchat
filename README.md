@@ -45,4 +45,4 @@ Issues found while reviewing the AI's work:
 
 ### My changes
 
-_Add what you changed yourself here._
+- **Rewrote the home page headline** in `app/page.tsx`, from "Turn website visitors into qualified leads, while you sleep." to "A chat assistant that finds your best customers for you", which is plainer and says what the product does.
