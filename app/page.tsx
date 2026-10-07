@@ -1,5 +1,6 @@
 import Link from "next/link";
 import ChatWidget from "@/components/ChatWidget";
+import { hasAiKey } from "@/lib/env";
 
 const steps = [
   { title: "Visitor opens the chat", body: "A small widget on any website starts the conversation." },
@@ -38,7 +39,7 @@ export default function Home() {
         ))}
       </section>
 
-      <ChatWidget />
+      <ChatWidget demo={!hasAiKey} />
     </>
   );
 }
